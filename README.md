@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Different React Projects**
 
-- 🌱 I’m currently learning **Framer-Motion**
+- 🌱 I’m currently learning **Framer-Motion and Gsap**
 
 - 👨‍💻 All of my projects are available at [https://keshavsonii.netlify.app/](https://keshavsonii.netlify.app/)
 
