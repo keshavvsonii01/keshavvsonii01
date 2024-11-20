@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.Js and Gsap**
 
-- 👨‍💻 All of my projects are available at [https://keshavsonii.netlify.app/](https://keshavsonii.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://keshavsonii.netlify.app/](https://keshavsoni.netlify.app/)
 
 - 📫 How to reach me **keshavvsonnii01@gmail.com**
 
